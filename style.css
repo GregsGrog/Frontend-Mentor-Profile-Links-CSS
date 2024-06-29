@@ -42,7 +42,7 @@ body{
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-    background-image: url('/assets/images/avatar-jessica.jpeg');
+    background-image: url('./assets/images/avatar-jessica.jpeg');
     margin-top: 17px;
     margin-bottom: 10px;
 }
